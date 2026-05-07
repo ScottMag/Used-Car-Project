@@ -4,4 +4,4 @@ This is an example of taking raw data from a public source, performing ETL withi
 ### Dashboard Preview
 ![Executive Dashboard Demo](Power_BI/dashboard_demo.gif)
 
-This is the Kaggle dataset being utilized for this project: [[https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?resource=download ]([https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data))]
+This is the Kaggle dataset being utilized for this project: [https://www.kaggle.com/datasets/thedevastator/unlock-profits-with-e-commerce-sales-data?resource=download ](https://www.kaggle.com/datasets/austinreese/craigslist-carstrucks-data)
